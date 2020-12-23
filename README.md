@@ -2,7 +2,7 @@
 My arch dwm config with dot files
 
 ### Includes
-- Emacs
+- neovim
 - dwm
 - st
 - qutebrowser
