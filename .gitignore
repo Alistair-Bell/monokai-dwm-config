@@ -1,7 +1,5 @@
 ckan*
 ckb-next*
-plug-config
-
 
 *.o
 st/st
