@@ -16,7 +16,7 @@ static int borderpx = 0;
  * 4: value of shell in /etc/passwd
  * 5: value of shell in config.h
  */
-static char *shell = "/bin/sh";
+static char *shell = "/bin/fish";
 char *utmp = NULL;
 /* scroll program: to enable use a string like "scroll" */
 char *scroll = NULL;
@@ -134,16 +134,16 @@ static const char *colorname[] = {
     "#d79921",
     "#458588",
     "#b16286",
-                                    "#689d6a",
-                                        "#a89984",
-                                            "#928374",
-                                                "#fb4934",
-                                                    "#b8bb26",
-                                                        "#fabd2f",
-                                                            "#83a598",
-                                                                "#d3869b",
-                                                                    "#8ec07c",
-                                                                        "#ebdbb2",
+    "#689d6a",
+    "#a89984",
+    "#928374",
+    "#fb4934",
+    "#b8bb26",
+    "#fabd2f",
+    "#83a598",
+    "#d3869b",
+    "#8ec07c",
+    "#ebdbb2",
 };
 
 
